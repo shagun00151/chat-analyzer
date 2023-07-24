@@ -1,7 +1,5 @@
 # chat-analyzer
 
-Chat Analyzer
-
 Welcome to Chat Analyzer! This GitHub repository contains a powerful tool designed to analyze and process chat conversations. Whether you want to gain insights from customer support chats, study online communication patterns, or perform sentiment analysis on text-based conversations, Chat Analyzer has got you covered.
 
 Features
